@@ -1,0 +1,17 @@
+alias: Encender focos al anochecer
+description: Encendido automático de los focos del campo cuando anochece
+trigger:
+  - platform: sun
+    event: sunset
+    offset: "-00:20:00"  # 20 minutos antes del atardecer
+condition: []
+action:
+  - type: turn_on
+    device_id: 1234567890abcdef
+    entity_id: light.foco_frente_1
+    domain: light
+  - type: turn_on
+    device_id: 1234567890abcdef
+    entity_id: light.foco_frente_2
+    domain: light
+mode: single
