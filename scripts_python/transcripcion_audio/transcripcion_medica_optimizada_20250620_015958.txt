@@ -1,0 +1,52 @@
+TRANSCRIPCIÓN MÉDICA OPTIMIZADA - NOVA-2
+============================================================
+
+INFORMACIÓN DE LA SESIÓN:
+------------------------------
+Archivo: audio_para_transcribir_optimizado_300s.wav
+Timestamp: 2025-06-20T01:59:58.158533
+Modelo: nova-2
+Confianza: 99.99%
+Sesión ID: 20250620_015924
+
+TRANSCRIPCIÓN COMPLETA:
+-------------------------
+Dolor, este es un archivo de prueba para transcripción médica. El paciente presenta síntomas de ansiedad y dificultades para dormir.
+
+ANÁLISIS DE CONTENIDO MÉDICO:
+-----------------------------------
+
+ROLES:
+  • paciente: 1 vez(es)
+
+SÍNTOMAS_FÍSICOS:
+  • dolor: 1 vez(es)
+
+SÍNTOMAS_PSICOLÓGICOS:
+  • ansiedad: 1 vez(es)
+
+SENTIMENT:
+  • Score: 0
+  • Interpretación: Neutro
+
+ESTADISTICAS:
+  • palabras_totales: 20
+  • caracteres: 132
+  • oraciones_aprox: 2
+
+
+ANÁLISIS POR SPEAKERS:
+-------------------------
+
+👨‍⚕️ MÉDICO/PROFESIONAL (Speaker 0):
+  • Palabras: 20
+  • Participación: 100.0%
+  • Confianza promedio: 98.08%
+  • Muestra de texto: dolor este es un archivo de prueba para transcripción médica el paciente presenta síntomas de ansiedad y dificultades para dormir...
+
+
+RECOMENDACIONES PARA MEJORA:
+-----------------------------------
+✅ Excelente calidad de audio - mantener configuración
+💡 Usar siempre modelo nova-2 para máxima precisión
+💡 Mantener segmentos de 2-5 minutos para mejor costo/beneficio

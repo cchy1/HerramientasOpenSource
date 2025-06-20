@@ -1,0 +1,4 @@
+*.wav
+medical-ai/transcription/*.wav
+scripts_python/transcripcion_audio/*.wav
+scripts_python/transcripcion_audio/*.wav

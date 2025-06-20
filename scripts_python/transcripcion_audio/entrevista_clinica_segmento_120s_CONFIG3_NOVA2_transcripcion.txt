@@ -1,0 +1,20 @@
+TRANSCRIPCIÓN MÉDICA - CONFIG3_NOVA2
+==================================================
+
+Archivo: entrevista_clinica_segmento_120s.wav
+Configuración: CONFIG3_NOVA2
+Confianza: 96.05%
+
+TRANSCRIPCIÓN:
+--------------------
+Hola. Matías Minos. ¿Cómo estás? ¿Cómo estás, Matías? Hola. ¿Cómo te va? ¿Y estás? Bien, adelante. La siento, Matías. Luego me acuerdo perfectamente de ti, se incluso nunca me devolvía que eres scout y que creo que este año te vas a Portugal. Exactamente. La última vez viniste con pelo de otro color. Ahora lo tengo normal, sí, ya me quedé ponerlo normal ahí. Sí, lo vendí, me ve color de la Nosotros cambiamos de ficha clínica el año pasado y estuve revisando tu feed y tengo una duda, porque me aparecen 2 fechas de consulta, 1 hace un año, como el 27 de marzo, y otra en julio. Sí, y parece que a esa no viniste, que alguna vez reservaste pero no viniste, porque de los datos que yo tengo, de lo escrito, la última vez que yo te di fue el 27 de marzo del 2024, ¿eso está bien? Yo yo recuerde nunca faltaba ninguna Yo revisé
+
+ANÁLISIS DE PALABRAS CLAVE:
+------------------------------
+
+
+SEPARACIÓN POR SPEAKERS:
+-------------------------
+
+👨‍⚕️ MÉDICO/ENTREVISTADOR (Speaker 0):
+hola matías minos cómo estás cómo estás matías hola cómo te va y estás bien adelante la siento matías luego me acuerdo perfectamente de ti se incluso nunca me devolvía que eres scout y que creo que este año te vas a portugal exactamente la última vez viniste con pelo de otro color ahora lo tengo normal sí ya me quedé ponerlo normal ahí sí lo vendí me ve color de la nosotros cambiamos de ficha clínica el año pasado y estuve revisando tu feed y tengo una duda porque me aparecen 2 fechas de consulta 1 hace un año como el 27 de marzo y otra en julio sí y parece que a esa no viniste que alguna vez reservaste pero no viniste porque de los datos que yo tengo de lo escrito la última vez que yo te di fue el 27 de marzo del 2024 eso está bien yo yo recuerde nunca faltaba ninguna yo revisé

@@ -1,0 +1,22 @@
+TRANSCRIPCIÓN DEEPGRAM
+==============================
+
+Archivo: audio_para_transcribir.wav
+Modelo: general
+Idioma: es
+
+TRANSCRIPCIÓN:
+Ola, este es un archivo de prueba para trans médica. El paciente presenta síntomas de ansiedad y dificultades para dormir.
+
+DETALLE POR PALABRAS:
+--------------------
+Speaker 0: ola (confianza: 0.59)
+Speaker 0: este (confianza: 0.92)
+Speaker 0: es (confianza: 0.99)
+Speaker 0: un (confianza: 0.97)
+Speaker 0: archivo (confianza: 0.99)
+Speaker 0: de (confianza: 0.98)
+Speaker 0: prueba (confianza: 1.00)
+Speaker 0: para (confianza: 1.00)
+Speaker 0: trans (confianza: 0.81)
+Speaker 0: médica (confianza: 0.98)

@@ -1,0 +1,20 @@
+TRANSCRIPCIÓN MÉDICA - CONFIG1_BASICA
+==================================================
+
+Archivo: entrevista_clinica_segmento_120s.wav
+Configuración: CONFIG1_BASICA
+Confianza: 92.77%
+
+TRANSCRIPCIÓN:
+--------------------
+Hola? Matías míos. Estas ¿Cómo estás Matías? ¿Cómo te va? Bien, adelante. Siento María. Yo me acuerdo perfectamente, ti, incluso nunca me olvidé que eres Scout, que creo que este año te vas a portugal. Exactamente sí. Y la última vez viene con pelo. Normal sí Nosotros cambiamos de ficha clínica el año pasado y estuve revisando tu y tengo una duda porque me aparecen 2 fechas 2 que, 1 hace un año, como el 27 de marzo, y otra en julio. Sí, y parece que esa no de que alguna vez resuelva pero lo viniste? Porque de los datos que yo tengo del escrito, la última vez que yo te di, fue el 27 de marzo del 2024, ¿eso está bien? Yo revisé
+
+ANÁLISIS DE PALABRAS CLAVE:
+------------------------------
+
+
+SEPARACIÓN POR SPEAKERS:
+-------------------------
+
+👨‍⚕️ MÉDICO/ENTREVISTADOR (Speaker 0):
+hola matías míos estas cómo estás matías cómo te va bien adelante siento maría yo me acuerdo perfectamente ti incluso nunca me olvidé que eres scout que creo que este año te vas a portugal exactamente sí y la última vez viene con pelo normal sí nosotros cambiamos de ficha clínica el año pasado y estuve revisando tu y tengo una duda porque me aparecen 2 fechas 2 que 1 hace un año como el 27 de marzo y otra en julio sí y parece que esa no de que alguna vez resuelva pero lo viniste porque de los datos que yo tengo del escrito la última vez que yo te di fue el 27 de marzo del 2024 eso está bien yo revisé

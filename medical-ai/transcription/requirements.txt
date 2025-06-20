@@ -1,0 +1,27 @@
+# Dependencias para Transcripción Médica
+# Instalación: pip install -r requirements.txt
+
+# Core de transcripción
+deepgram-sdk==2.12.0
+python-dotenv==1.0.0
+
+# Audio processing
+pyaudio==0.2.14
+# pydub==0.25.1  # Opcional, para procesamiento alternativo
+
+# Async support
+asyncio-compat>=0.1.2
+websockets==15.0.1
+
+# Utilidades
+glob2>=0.7
+pathlib2>=2.3.0  # Solo si Python < 3.4
+
+# Análisis de datos (para futuras mejoras)
+# pandas>=1.5.0     # Descomenta si necesitas análisis avanzado
+# numpy>=1.24.0     # Descomenta si necesitas análisis numérico
+# scikit-learn>=1.2.0  # Descomenta si necesitas ML
+
+# Herramientas externas requeridas:
+# - ffmpeg (instalar con: brew install ffmpeg)
+# - homebrew (para macOS M1/M2)

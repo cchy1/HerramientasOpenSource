@@ -1,0 +1,40 @@
+{
+  "nodes": [
+    {
+      "parameters": {
+        "fromEmail": "",
+        "subject": "TAREA:",
+        "includeAttachments": false
+      },
+      "id": "GmailTrigger",
+      "name": "Gmail - Trigger",
+      "type": "gmailTrigger",
+      "typeVersion": 1,
+      "position": [250, 200]
+    },
+    {
+      "parameters": {
+        "task": "={{$json[\"textHtml\"]}}",
+        "tasklist": "default"
+      },
+      "id": "CreateTask",
+      "name": "Google Tasks - Crear tarea",
+      "type": "googleTasks",
+      "typeVersion": 1,
+      "position": [500, 200]
+    }
+  ],
+  "connections": {
+    "GmailTrigger": {
+      "main": [
+        [
+          {
+            "node": "Google Tasks - Crear tarea",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  }
+}

@@ -1,0 +1,51 @@
+esphome:
+  name: collar_virtual_01
+  platform: ESP32
+  board: esp32dev
+
+wifi:
+  ssid: "NOMBRE_WIFI"
+  password: "CONTRASENA_WIFI"
+  manual_ip:
+    static_ip: 192.168.1.80
+    gateway: 192.168.1.1
+    subnet: 255.255.255.0
+  ap:
+    ssid: "collar_virtual_ap"
+    password: "12345678"
+
+captive_portal:
+
+logger:
+
+api:
+  password: "clave_segura"
+
+ota:
+  password: "clave_segura"
+
+# Lógica de advertencia sonora (buzzer)
+output:
+  - platform: gpio
+    pin: GPIO25
+    id: buzzer
+
+switch:
+  - platform: output
+    name: "Advertencia sonora"
+    output: buzzer
+
+# Sensor de geolocalización virtual (para pruebas)
+sensor:
+  - platform: template
+    name: "Distancia a límite"
+    unit_of_measurement: "m"
+    lambda: |-
+      return 5.5;  # simulado, reemplazar por GPS real si se usa
+    update_interval: 30s
+
+binary_sensor:
+  - platform: gpio
+    pin: GPIO33
+    name: "Sensor de zona cruzada"
+    device_class: safety
